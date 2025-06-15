@@ -38,7 +38,7 @@ https://expo.dev/accounts/aj_birlaep/projects/property-app/builds/77331563-716e-
 ### Steps:
 
 ```bash
-git clone https://github.com/birla-AJ/RaftLabs_task.git
+git clone https://github.com/birla-AJ/property-booking-app.git
 cd react-native-property-app-raftlabs
 npm install
 npx json-server --watch db.json --port 3001
